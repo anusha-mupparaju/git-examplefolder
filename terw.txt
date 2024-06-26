@@ -1,0 +1,11 @@
+eggplant DAI (Digital Automation Intelligence)
+--------------------------------
+default port will be :8000
+
+
+Games:
+--------------
+musical chairs with items.(hair clip,lib balm or lipstick,stickers,spects box,purse,books)
+word sharing.
+pyramid with cards and small balls.
+puzzle
